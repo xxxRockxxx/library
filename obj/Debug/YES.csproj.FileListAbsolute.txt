@@ -1,0 +1,6 @@
+D:\Codes\YES\bin\Debug\YES.dll
+D:\Codes\YES\bin\Debug\YES.pdb
+D:\Codes\YES\obj\Debug\YES.csproj.AssemblyReference.cache
+D:\Codes\YES\obj\Debug\YES.csproj.CoreCompileInputs.cache
+D:\Codes\YES\obj\Debug\YES.dll
+D:\Codes\YES\obj\Debug\YES.pdb
